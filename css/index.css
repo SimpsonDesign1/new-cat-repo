@@ -7,7 +7,7 @@ p {
 .customNav {
   position: fixed;
   width: 100%;
-  background: url(/images/transparency.png);
+  background: url(../images/transparency.png);
   background-color: transparent !important;
   background-size: cover;
   z-index: 10;
@@ -24,7 +24,7 @@ p {
   margin: 0px 15px
 }
 .dropdown-menu {
-  background: url(/images/transparency.png);
+  background: url(../images/transparency.png);
   background-color: transparent !important;
   background-size: cover;
 }
@@ -46,7 +46,7 @@ p {
 
 /* Jumbotron */
 .jumbotron {
-  background-image: url(/images/cat-hero.jpg);
+  background-image: url(../images/cat-hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 750px;
